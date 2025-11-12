@@ -1,0 +1,1 @@
+/Users/weisiyang/rCore_lab/os/target/riscv64gc-unknown-none-elf/release/os: /Users/weisiyang/rCore_lab/os/src/console.rs /Users/weisiyang/rCore_lab/os/src/entry.asm /Users/weisiyang/rCore_lab/os/src/lang_items.rs /Users/weisiyang/rCore_lab/os/src/main.rs /Users/weisiyang/rCore_lab/os/src/sbi.rs
